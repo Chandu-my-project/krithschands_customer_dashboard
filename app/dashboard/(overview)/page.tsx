@@ -1,4 +1,4 @@
-import Home from "../ui/dashboard/home";
+import Home from "@/app/ui/dashboard/home";
 
 export default function Page()
 {
